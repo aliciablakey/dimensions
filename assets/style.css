@@ -5,3 +5,20 @@ h1 {
     text-align: center;
     margin: 0px auto;
     padding-top: 30px;
+
+
+ }
+p { color: #3DF0FF;
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 30px;}
+
+body {
+	margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+
